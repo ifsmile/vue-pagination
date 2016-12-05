@@ -1,5 +1,10 @@
 # vue-pagination
 
+<<<<<<< HEAD
+=======
+## 效果
+
+>>>>>>> 40ad486157740c893d359ef8b6516ce3d7665d80
 ![](https://raw.githubusercontent.com/ifsmile/img/master/vue-pagination/GIF.gif)
 
 ## 介绍
