@@ -1,7 +1,5 @@
 # vue-pagination
 
-## 效果
-
 ![](https://raw.githubusercontent.com/ifsmile/img/master/vue-pagination/GIF.gif)
 
 ## 介绍
