@@ -1,10 +1,7 @@
 # vue-pagination
 
-<<<<<<< HEAD
-=======
 ## 效果
 
->>>>>>> 40ad486157740c893d359ef8b6516ce3d7665d80
 ![](https://raw.githubusercontent.com/ifsmile/img/master/vue-pagination/GIF.gif)
 
 ## 介绍
@@ -35,27 +32,27 @@ $ webpack
 ```bash
 🗁 vue-pagination
   |--🗀 .git
-  |--🗁 dist							# 打包目录
-  |  `--🗎 main.js          				# 项目入口文件
+  |--🗁 dist                                # 打包目录
+  |  `--🗎 main.js                           # 项目入口文件
   |--🗀 node_modules
   |--🗁 src
-  |  |--🗁 components					# UI 组件
-  |  |  `--🗎 vue-pagination.vue			# vue-pagination组件
-  |  |--🗁 view							# 视图组件
-  |  |  `--🗎 index.vue                  # 挂载组件
-  |  `--🗎 main.js						# 项目入口文件	
+  |  |--🗁 components                       # UI 组件
+  |  |  `--🗎 vue-pagination.vue             # vue-pagination组件
+  |  |--🗁 view                             # 视图组件
+  |  |  `--🗎 index.vue                      # 挂载组件
+  |  `--🗎 main.js                           # 项目入口文件    
   |--🗎 .gitignore
-  |--🗎 index.html                       # 主页
-  |--🗎 package.json	                    # 依赖
+  |--🗎 index.html                           # 主页
+  |--🗎 package.json                         # 依赖
   |--🗎 README.md
-  `--🗎 webpack.config.js				# webpack配置文件
+  `--🗎 webpack.config.js                    # webpack配置文件
 ```
 
 ## props介绍
 
 ```bash
-# pageSize		每页显示数据条数
+# pageSize      每页显示数据条数
 # totalResult   总共数据条数
-# displayNum	分页组件中间显示页的个数
-# edgeNum		分页组件两端显示页的个数
+# displayNum    分页组件中间显示页的个数
+# edgeNum       分页组件两端显示页的个数
 ```
