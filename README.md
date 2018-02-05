@@ -1,6 +1,6 @@
 # vue-pagination
 
-![](https://raw.githubusercontent.com/ifsmile/img/master/vue-pagination/GIF.gif)
+![](https://github.com/ifsmile/vue-pagination/blob/master/images/GIF.gif?raw=true)
 
 ## 介绍
 
